@@ -1,0 +1,9 @@
+{
+	"Flightnumber":"1234",
+	"SeatPrice":{
+		"FirstClass":"123.31",
+		"BusinessClass":"456.42",
+		"EconomyClass":"789.33"
+	}
+	
+}

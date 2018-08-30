@@ -1,0 +1,15 @@
+{
+	"passenger":
+	{
+		"name":"Prakash",
+		"address":{
+			"house":"h301",
+			"locality":"ec"
+		},
+		"city":"Bangalore",
+		"state":"karnataka",
+		"creditcardnumber":123456781234,
+		"creditexpdate":"12/99",
+		"contact": 8547144341
+	}
+}
